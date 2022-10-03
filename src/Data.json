@@ -1,0 +1,281 @@
+[
+    {
+        "id": 1,
+        "name": "Robe à coeur",
+        "price": 20,
+        "img" : "images/women1.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "categorie": "Women",
+        "tag": "Bestseller",
+        "color": {
+            "color1": "Red",
+            "color2": "Green",
+            "color3": "Black",
+            "color4": "White",
+            "color5": "Purple"
+        },
+        "size": {
+            "size1": "XS",
+            "size2": "S",
+            "size3": "M",
+            "size4": "L",
+            "size5": "XL"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Robe crayon",
+        "price": 35,
+        "img" : "images/women2.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A recusandae deleniti sed distinctio at natus neque pariatur laboriosam illum, possimus explicabo perspiciatis, alias asperiores aperiam consequuntur quaerat? Commodi, pariatur alias.",
+        "categorie": "Women",
+        "tag": "Old",
+        "color": {
+            "color1": "Red",
+            "color2": "Green",
+            "color3": "Black",
+            "color4": "White",
+            "color5": "Purple"
+        },
+        "size": {
+            "size1": "XS",
+            "size2": "S",
+            "size3": "M",
+            "size4": "L",
+            "size5": "XL"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Robe longue",
+        "price": 20,
+        "img" : "images/women3.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A recusandae deleniti sed distinctio at natus neque pariatur laboriosam illum, possimus explicabo perspiciatis, alias asperiores aperiam consequuntur quaerat? Commodi, pariatur alias.",
+        "categorie": "Women",
+        "tag": "Old",
+        "color": {
+            "color1": "Red",
+            "color2": "Green",
+            "color3": "Black",
+            "color4": "White",
+            "color5": "Purple"
+        },
+        "size": {
+            "size1": "XS",
+            "size2": "S",
+            "size3": "M",
+            "size4": "L",
+            "size5": "XL"
+        }
+    },
+    {
+        "id": 4,
+        "name": "T-shirt basic",
+        "price": 10,
+        "img" : "images/men1.webp",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A recusandae deleniti sed distinctio at natus neque pariatur laboriosam illum, possimus explicabo perspiciatis, alias asperiores aperiam consequuntur quaerat? Commodi, pariatur alias.",
+        "categorie": "Men",
+        "tag": "Bestseller",
+        "color": {
+            "color1": "Red",
+            "color2": "Green",
+            "color3": "Black",
+            "color4": "White",
+            "color5": "Purple"
+        },
+        "size": {
+            "size1": "XS",
+            "size2": "S",
+            "size3": "M",
+            "size4": "L",
+            "size5": "XL"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Training",
+        "price": 50,
+        "img" : "images/men2.webp",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A recusandae deleniti sed distinctio at natus neque pariatur laboriosam illum, possimus explicabo perspiciatis, alias asperiores aperiam consequuntur quaerat? Commodi, pariatur alias.",
+        "categorie": "Men",
+        "tag": "New",
+        "color": {
+            "color1": "Red",
+            "color2": "Green",
+            "color3": "Black",
+            "color4": "White",
+            "color5": "Purple"
+        },
+        "size": {
+            "size1": "XS",
+            "size2": "S",
+            "size3": "M",
+            "size4": "L",
+            "size5": "XL"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Bas de training",
+        "price": 48,
+        "initialprice": 60,
+        "img" : "images/men3.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A recusandae deleniti sed distinctio at natus neque pariatur laboriosam illum, possimus explicabo perspiciatis, alias asperiores aperiam consequuntur quaerat? Commodi, pariatur alias.",
+        "categorie": "Men",
+        "tag": "Sale",
+        "color": {
+            "color1": "Red",
+            "color2": "Green",
+            "color3": "Black",
+            "color4": "White",
+            "color5": "Purple"
+        },
+        "size": {
+            "size1": "XS",
+            "size2": "S",
+            "size3": "M",
+            "size4": "L",
+            "size5": "XL"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Veste",
+        "price": 25,
+        "img" : "images/kid1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A recusandae deleniti sed distinctio at natus neque pariatur laboriosam illum, possimus explicabo perspiciatis, alias asperiores aperiam consequuntur quaerat? Commodi, pariatur alias.",
+        "categorie": "Kid",
+        "tag": "New",
+        "color": {
+            "color1": "Red",
+            "color2": "Green",
+            "color3": "Black",
+            "color4": "White",
+            "color5": "Purple"
+        },
+        "size": {
+            "size1": "XS",
+            "size2": "S",
+            "size3": "M",
+            "size4": "L",
+            "size5": "XL"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Sweatshirt",
+        "price": 56,
+        "initialprice": 70,
+        "img" : "images/kid2.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A recusandae deleniti sed distinctio at natus neque pariatur laboriosam illum, possimus explicabo perspiciatis, alias asperiores aperiam consequuntur quaerat? Commodi, pariatur alias.",
+        "categorie": "Kid",
+        "tag": "Sale",
+        "color": {
+            "color1": "Red",
+            "color2": "Green",
+            "color3": "Black",
+            "color4": "White",
+            "color5": "Purple"
+        },
+        "size": {
+            "size1": "XS",
+            "size2": "S",
+            "size3": "M",
+            "size4": "L",
+            "size5": "XL"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Robe",
+        "price": 10,
+        "img" : "images/kid3.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A recusandae deleniti sed distinctio at natus neque pariatur laboriosam illum, possimus explicabo perspiciatis, alias asperiores aperiam consequuntur quaerat? Commodi, pariatur alias.",
+        "categorie": "Kid",
+        "tag": "Bestseller",
+        "color": {
+            "color1": "Red",
+            "color2": "Green",
+            "color3": "Black",
+            "color4": "White",
+            "color5": "Purple"
+        },
+        "size": {
+            "size1": "XS",
+            "size2": "S",
+            "size3": "M",
+            "size4": "L",
+            "size5": "XL"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Colier",
+        "price": 10,
+        "img" : "images/accessoire1.webp",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A recusandae deleniti sed distinctio at natus neque pariatur laboriosam illum, possimus explicabo perspiciatis, alias asperiores aperiam consequuntur quaerat? Commodi, pariatur alias.",
+        "categorie": "Accessory",
+        "tag": "New",
+        "color": {
+            "color1": "Red",
+            "color2": "Green",
+            "color3": "Black",
+            "color4": "White",
+            "color5": "Purple"
+        },
+        "size": {
+            "size1": "XS",
+            "size2": "S",
+            "size3": "M",
+            "size4": "L",
+            "size5": "XL"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Ceinture",
+        "price": 50,
+        "img" : "images/accessoire2.webp",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A recusandae deleniti sed distinctio at natus neque pariatur laboriosam illum, possimus explicabo perspiciatis, alias asperiores aperiam consequuntur quaerat? Commodi, pariatur alias.",
+        "categorie": "Accessory",
+        "tag": "Old",
+        "color": {
+            "color1": "Red",
+            "color2": "Green",
+            "color3": "Black",
+            "color4": "White",
+            "color5": "Purple"
+        },
+        "size": {
+            "size1": "XS",
+            "size2": "S",
+            "size3": "M",
+            "size4": "L",
+            "size5": "XL"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Bracelet",
+        "price": 20,
+        "initialprice": 25,
+        "img" : "images/accessoire3.webp",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A recusandae deleniti sed distinctio at natus neque pariatur laboriosam illum, possimus explicabo perspiciatis, alias asperiores aperiam consequuntur quaerat? Commodi, pariatur alias.",
+        "categorie": "Accessory",
+        "tag": "Sale",
+        "color": {
+            "color1": "Red",
+            "color2": "Green",
+            "color3": "Black",
+            "color4": "White",
+            "color5": "Purple"
+        },
+        "size": {
+            "size1": "XS",
+            "size2": "S",
+            "size3": "M",
+            "size4": "L",
+            "size5": "XL"
+        }
+    }
+]

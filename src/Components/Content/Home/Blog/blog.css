@@ -1,0 +1,20 @@
+#blog .bgBlog {
+    background-image: url("../../../../images/carousel2.jpg");
+    background-position: center;
+    background-color: rgba(17, 17, 17, 0.289);
+    mix-blend-mode: multiply;
+    text-align: center;
+    padding: 8%;
+    color: white;
+}
+#blog button{
+    background: transparent;
+    color: white;
+    border-radius: 20px;
+    border: 0.5px solid transparent;
+    padding: 10px 20px;
+
+}
+#blog button:active{
+    border: 0.5px solid #E65540;
+}

@@ -1,0 +1,55 @@
+footer{
+    padding: 0 10%;
+    position: relative;
+    background: #F0F0F0;
+}
+footer .fleche{
+    position:fixed;
+    right: 0;
+    right: 5%;
+    bottom: 10%;
+    font-size: 25px;
+}
+footer .fleche:hover{
+    color: #E65540;
+}
+footer .info1 ul li{
+    display: inline;
+}
+footer .info1 ul{
+    padding: 0;
+}
+footer .info2 ul, footer .info3 ul{
+    padding: 0;
+}
+footer .info2 ul li, footer .info3 ul li{
+    list-style: none;
+    color: #888888;
+}
+footer a {
+    color: black;
+    text-decoration: none;
+}
+footer .info1 {
+    text-align: center;
+}
+.footer1 {
+    padding: 40px 0 0;
+    display: grid;
+    grid-template-columns: 3fr 2fr 2fr;
+    gap: 10%;
+}
+.footer1 .info1 .reseau{
+    color: #888888;
+    padding: 10px;
+}
+.footer1 .info1 .reseau:hover, .footer1 a:hover{
+    color: #E65540;
+}
+.footer1 a, .footer1 p, .footer2 p{
+    color: #888888;
+}
+.footer2 {
+    padding: 20px 0;
+    text-align: center;
+}

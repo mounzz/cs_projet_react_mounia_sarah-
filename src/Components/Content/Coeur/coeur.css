@@ -1,0 +1,18 @@
+.ContainerLikedItems{
+    margin: 3rem auto;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+}
+
+.captionsLikedContainer{
+    display: grid;
+    grid-template-columns: 1fr .3fr .5fr .5fr .3fr;
+    justify-items: center;
+}
+.panierVide{    
+    text-align: center;    
+    padding: 2rem;    
+    border: 1px solid #e6e6e6;
+}

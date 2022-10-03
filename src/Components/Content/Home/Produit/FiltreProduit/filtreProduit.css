@@ -1,0 +1,80 @@
+.containerProduct{
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+
+.imgProductContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 20rem;
+}
+
+.imgProduct{
+    width: 20rem;
+
+}
+
+.tag, .like, .buttonContainer{
+    position: absolute;
+    
+}
+
+.buttonContainer{
+    bottom: 3rem;
+    left: 6rem;
+}
+
+.buttonProduct{
+    border-radius: 3rem;
+    padding: .3rem .5rem;
+    width: 7rem;
+    border: none;
+    color: #fff;
+    font-size: 12px;
+    background-color: black;
+    text-transform: uppercase;
+}
+
+.tag{
+    text-align: center;
+    top: 1rem;
+    left: 1rem;
+    color: #fff;
+    border-radius: 2rem;
+    padding: .1rem .8rem;
+}
+
+.like{
+    top: 0;
+    right: 1rem;
+    font-size: 2rem;
+    color:#fff;
+}
+
+.containerTextProduct{
+    display: flex;
+    flex-direction: column;
+ 
+}
+
+.titre, .price{
+    margin: 0;
+    color: #5a5555;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+}
+
+
+.salePrice{
+    color: #e65540;
+}
+
+.react-tabs__tab-panel--selected{
+    display: flex !important;
+    justify-content:space-between !important;
+}

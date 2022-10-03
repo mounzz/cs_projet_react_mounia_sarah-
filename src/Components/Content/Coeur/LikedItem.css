@@ -1,0 +1,19 @@
+.containerLikedItem{
+    width: 100%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: .5fr .5fr .3fr .5fr .5fr .3fr;
+    justify-items: center;
+    padding: 1rem;
+    align-items: center;
+    border: 1px solid #e6e6e6;
+    
+}
+
+.AjoutPanierBouton{
+    border: none;
+    padding: .5rem 1rem;
+    border-radius: 3rem;
+    background-color: black;
+    color: #fff;
+}
